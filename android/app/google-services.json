@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991455326291",
+    "project_id": "imtihon5-fa60c",
+    "storage_bucket": "imtihon5-fa60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991455326291:android:4373fc4511615215bd16a6",
+        "android_client_info": {
+          "package_name": "com.example.imtihon_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgwvNrrLQUPbxuGvzH9T-lMSrrvE1byE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
